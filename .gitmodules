@@ -1,0 +1,18 @@
+[submodule "php/woocommerce"]
+	path = php/woocommerce
+	url = git@github.com:erickmajor/cms-skeleton-woocommerce.git
+[submodule "php/wordpress"]
+	path = php/wordpress
+	url = git@github.com:erickmajor/cms-skeleton-wordpress.git
+[submodule "php/joomla"]
+	path = php/joomla
+	url = git@github.com:erickmajor/cms-skeleton-joomla.git
+[submodule "php/drupal7"]
+	path = php/drupal7
+	url = git@github.com:erickmajor/cms-skeleton-drupal7.git
+[submodule "php/drupal8"]
+	path = php/drupal8
+	url = git@github.com:erickmajor/cms-skeleton-drupal8.git
+[submodule "php/drupal9"]
+	path = php/drupal9
+	url = git@github.com:erickmajor/cms-skeleton-drupal9.git
